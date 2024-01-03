@@ -8,27 +8,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    name: Prakrati Kadekar
+    tagline: Designer and Tech Nerd
+      
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: prakrati.kadekar@gmail.com
+    phone: 732 763 0006
+    timezone: Eastern Timezone
+    citizenship: U.S. citizen
+    website: prakratis-portfolio-creation.webflow.io/ #do not add http://
+    linkedin: prakrati-kadekar
+    github: prakratikadekar
+
 
     languages:
       title: Languages
@@ -36,140 +27,80 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: Kannada
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Intermediate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Drawing
 
-        - item: Snowboarding
-          link:
+        - item: Watching sports
 
-        - item: Cooking
-          link:
+        - item: Chess
+          
+        - item: Reading
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hey there! I’m a creative problem-solver using research, design and programming to 
+      find user-centric solutions from New Jersey.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: B.S. Computer Science
+        university: Rutgers University - New Brunswick
+        time: Sept 2022 - May 2026
+      - degree: B.A. Cognitive Science
+        university: Rutgers University - New Brunswick
+        time: Sept 2022 - May 2026
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Site Developer
+        time: Dec 2023 - Present
+        company: Creative X @ Rutgers 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I developed the website for Creative X for the club's annual design-a-thon.
+            - Designed the website
+            - More TBA
+      - role: Education Director & Project Manager
+        time: May 2023 - present
+        company: Rutgers Design for America (DFA)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          My role was to teach members of the club about design thinking while guiding them through their projects.
+          for a semester long challenge on a social issue. 
+            - Teach interactive weekly introductory workshops on the design process for fall semester design challenges (Fall '23 - Mental Health)
+            - Design workshop slides for increased engagement and visual appeal
+            - Build partnerships with external organizations to support design teams
+            - Evaluate and provide feedback to teams in the progression of building their solution
+            - Manage workshops, demonstrations, and invitations for guest speakers to ensure a successful program
+      - role: Co-Director of Research & Newsletter
+        time: April 2023 - present
+        company: Rutgers Women in Product
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          My role is to create newsletters to inform members about the club's events and opportunities in the product field.
+            - Publish weekly newsletters in Mailchimp to update members about club events
+            - Research news about the product design and management industry
+            - Informs readers of opportunities in product-related fields for club members
+      - role: User Experience (UX) Intern
+        time: June 2023 - August 2023
+        company: Merck & Co.
+        details: |
+          My role was creating UX study plans and executing them to gather user insights for the company to improve their products 
+          or services to increase user satisfaction.
+            - Designed UX research study plans based on the client's goals
+            - Interviewed end users to assess user satisfaction and challenges with enterprise tools
+            - Crafted surveys and integrated feedback from clients
+            - Analyzed quantitative survey data via Excel by creating visual graphs
+            - Conducted thematic analysis of quotations and notes from interviews
+            - Synthesized user insights and presented actionable items to stakeholders for improvements
 
 projects:
     title: Projects
